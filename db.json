@@ -1,0 +1,23 @@
+{
+  "tests": [],
+  "vehicles": [
+    {
+      "modelo": "Compass",
+      "marca": "Jeep",
+      "ano": 2019,
+      "placa": "HGY-4519",
+      "chassi": "A641554H",
+      "renavam": "1110023442",
+      "id": 1
+    },
+    {
+      "modelo": "Argo",
+      "marca": "Fiat",
+      "ano": 2020,
+      "placa": "HFH-6Q79",
+      "chassi": "H10000052F",
+      "renavam": "1000240036",
+      "id": 2
+    }
+  ]
+}
